@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, World"
+title: "二色光码字中…"
 date: 2025-11-01
 categories: [2D]   # 这篇文章出现在“2D”分区
 comments: true       # 开启评论（Disqus）
