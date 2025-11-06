@@ -7,9 +7,9 @@ theme: minima
 
 # 顶部导航显示三个分区页面
 header_pages:
-  - tech.md
-  - notes.md
-  - news.md
+  - 2d.md
+  - yuri.md
+  - others.md
 
 markdown: kramdown
 plugins:
