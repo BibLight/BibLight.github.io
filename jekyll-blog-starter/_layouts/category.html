@@ -1,0 +1,29 @@
+---
+---
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- if site.theme == "minima" -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- endif -%}
+</head>
+<body>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <h1>{{ page.title }}</h1>
+      <ul>
+        {%- assign cat = page.category -%}
+        {%- for post in site.categories[cat] -%}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <small> — {{ post.date | date: "%Y-%m-%d" }}</small>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+  </main>
+</body>
+</html>
