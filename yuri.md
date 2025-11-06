@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 随笔
+title: 猎奇
 permalink: /notes/
-category: 随笔
+category: 河豚发癫中
 ---
