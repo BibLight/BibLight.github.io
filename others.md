@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 技术
+title: 推理
 permalink: /tech/
-category: 技术
+category: 为侦助发癫中
 ---
