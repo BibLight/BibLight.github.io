@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 囤点粮（2025TODO:给2D产30w字）
+title: 囤点粮
 ---
 
-**<span style="color: blue">任何post下评论抽5张大大月卡5张小月卡可换成等额官谷，11月底开（感觉应该没那么多人HAHAHA）</span>**
+**<span style="color: blue">2026年3月 满血复活！</span>**
 
 **<span style="color: red">完结之后会在汇总贴附TXT格式文件</span>**
 
