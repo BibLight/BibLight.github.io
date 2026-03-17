@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 猎奇
+title: 百相关
 permalink: /notes/
 category: 河豚发癫中
 ---
